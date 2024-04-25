@@ -6,3 +6,4 @@
 
 🌱 Atualmente, estou mergulhado em projetos acadêmicos e pessoais, explorando diferentes áreas da computação e buscando aprender novas tecnologias. 
 
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Paulo-Douglas/Paulo-Douglas/output/github-contribution-grid-snake.svg">
