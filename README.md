@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 # Olá, meu nome é Paulo Douglas, bem vindo ao meu perfil 🧑‍💻
 
 ### Sobre mim 🪐
@@ -15,6 +17,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paulo-Douglas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false" height="150" alt="stats graph"/>
+  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Paulo-Douglas&show_icons=true&theme=algolia" alt="Paulo Douglas github stats" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paulo-Douglas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="150" alt="languages graph"/>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
