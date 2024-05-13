@@ -13,12 +13,12 @@
    
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/Paulo-Douglas?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue) 
 
-</div>
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Paulo-Douglas&theme=algolia&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Paulo-Douglas&show_icons=true&theme=algolia&layout=compact" />
- </div>
+<p align="center">
+<a href="https://github.com/Paulo-Douglas">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Paulo-Douglas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Paulo-Douglas&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
  
  &nbsp;
 &nbsp;
