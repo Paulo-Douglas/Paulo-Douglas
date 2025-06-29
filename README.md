@@ -1,16 +1,23 @@
+## 👋 Hello, welcome to my GitHub!
 
-# Olá, meu nome é Paulo Douglas. Bem vindo ao meu perfil <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32">
+I'm **Paulo Douglas**, an undergraduate student in **Information Systems** at the **Federal University of Rio Grande do Norte (UFRN)**.
 
-### Sobre mim 🪐
+🎯 I'm currently focused on **software development**, with a strong interest in **back-end engineering**.  
+I'm also exploring the fascinating world of **machine learning**, especially in **unsupervised learning tasks**.
 
-<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Olá! Eu sou o Paulo Douglas, estudante de graduação em Sistemas de Informação na Universidade Federal do Rio Grande do Norte (UFRN). Apaixonado pela área da tecnologia, estou sempre em busca de aprimorar meus conhecimentos e habilidades.
+🧠 I truly believe that **knowledge has the power to change the world** — and that’s what drives me every day to learn, build, and grow.
 
-🌱 Atualmente, estou mergulhado em projetos acadêmicos e pessoais, explorando diferentes áreas da computação e buscando aprender novas tecnologias.
+> "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge."  
+> — *Stephen Hawking*
+
+---
+
+Feel free to explore my repositories and follow along on my journey. 🚀
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Paulo-Douglas&theme=modern-lilac2&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Paulo-Douglas&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Paulo-Douglas&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Paulo-Douglas&theme=tokyonight) |
+| :-------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
 
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Paulo-Douglas&theme=modern-lilac)](https://github.com/ashutosh00710/github-readme-activity-graph)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paulo-Douglas&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Paulo-Douglas&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
+| :-----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
